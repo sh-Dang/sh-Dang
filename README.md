@@ -9,7 +9,7 @@
   
   <!--Markdown-->
 
-  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsh-Dang?color=purple&label=hits&size=small)](https://myhits.vercel.app) [![Solved.ac pjs0703](http://mazassumnida.wtf/api/mini/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703)
+  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsh-Dang?color=purple&label=hits&size=small)](https://myhits.vercel.app) [![Solved.ac pjs0703](http://mazassumnida.wtf/api/mini/generate_badge?boj=sh-Dang)](https://solved.ac/pjs0703)
 
 </div>
 
@@ -17,7 +17,7 @@
 <!--Body-->
 
   <div align="center">
-    <img src="https://github.com/jongseo0703/jongseo0703/blob/output/github-snake-dark.svg" width="98%">
+    <img src="https://github.com/sh-Dang/sh-Dang/blob/output/github-snake-dark.svg" width="98%">
   </div>
   
   <h2 align=center>👀 About me 👀</h2>
