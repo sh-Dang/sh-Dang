@@ -20,10 +20,10 @@
     <img src="https://github.com/sh-Dang/sh-Dang/blob/output/github-snake-dark.svg" width="98%">
   </div>
   
-  <h2 align=center>👀 About me 👀</h2>
+  <h2 align=center>👨‍💻About me<h2>
   <br>
-  <h4 align=center>👨‍💻 I aim to become a Backend Developer.</h4>
-  <h4 align=center>🔥 No one can stop my efforts.</h4>
+  <h4 align=center> I aim to become a Backend Developer.</h4>
+  <h4 align=center> Everything goes right</h4>
   
   <br>
     
@@ -37,18 +37,6 @@
     <a href="mailto:jongseo0703@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   </div>
 
-  <br>
-
-  <h2 align=center>💡 Algorithm 💡</h2>
-
-  <div align=center>
-    <a href="https://solved.ac/pjs0703/">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703"/>
-    </a>
-    <br>
-    <img src="http://mazandi.herokuapp.com/api?handle=pjs0703&theme=dark"/>
-  </div>
-  
   <br>
 
   <h2 align=center>📚 Tech Stack 📚</h2>
@@ -106,17 +94,17 @@
   <br>
 
   <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=jongseo0703&show_icons=true&theme=tokyonight" alt="Github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sh-Dang&show_icons=true&theme=tokyonight" alt="Github stats"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongseo0703&layout=compact&theme=tokyonight" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-Dang&layout=compact&theme=tokyonight" alt="Top Langs"/>
   </div>
 
   <br>
 
   <div align=center>
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jongseo0703&utm_content=farm">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sh-Dang&utm_content=farm">
       <img
-        src="https://render.gitanimals.org/farms/jongseo0703"
+        src="https://render.gitanimals.org/farms/sh-Dang"
         width="600"
         height="300"
       />
