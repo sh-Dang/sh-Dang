@@ -98,16 +98,15 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-Dang&layout=compact&theme=tokyonight" alt="Top Langs"/>
   </div>
-
+  <div>
   <br>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sh-Dang&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/sh-Dang"
-  width="600"
-  height="300"
-/>
-</a>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sh-Dang&utm_content=farm">
+      <img
+        src="https://render.gitanimals.org/farms/sh-Dang"
+        width="600"
+        height="300"
+      />
+    </a>
   </div>
     
 </div>
@@ -120,21 +119,6 @@
   </div>
   
 </div>
-
-<!--
-**jongseo0703/jongseo0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--
 **sh-Dang/sh-Dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
