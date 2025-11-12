@@ -1,135 +1,106 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20Sehyung's%20Github!&fontSize=35&fontAlignY=35&animation=fadeIn"/>
+</div>
 
-<div>
+<div align="center">
   
-  <!--header-->
-  <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Sehyung's+Github!👋&fontSize=40&animation=twinkling"/>
-  </div>
+  [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsh-Dang?color=5865F2&label=Profile%20Views&size=medium)](https://myhits.vercel.app)
+  [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=sh-Dang)](https://solved.ac/pjs0703)
   
-  <!--Markdown-->
+</div>
 
-  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsh-Dang?color=purple&label=hits&size=small)](https://myhits.vercel.app) [![Solved.ac pjs0703](http://mazassumnida.wtf/api/mini/generate_badge?boj=sh-Dang)](https://solved.ac/pjs0703)
+<br>
+
+## 👨‍💻 About Me
+
+```typescript
+const sehyung = {
+    role: "Backend Developer",
+    motto: "Everything goes right",
+    location: "Seoul, South Korea 🇰🇷",
+    learning: ["Spring Boot", "Docker", "React"],
+    interests: ["Backend Architecture", "Problem Solving", "Clean Code"]
+};
+```
+
+<br>
+
+## 📬 Contact
+
+<div align="center">
+  
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/292ba05054a68001b202cabcb9c8d840?source=copy_link)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:henrys200632@gmail.com)
+  [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:henrys2006@naver.com)
+  
+</div>
+
+<br>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🎯 Main Skills
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+### 📚 Currently Learning
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🗄️ Database & Server
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🛠️ Tools & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </div>
 
-<div>
-<!--Body-->
+<br>
 
-  <div align="center">
-    <img src="https://github.com/sh-Dang/sh-Dang/blob/output/github-snake-dark.svg" width="98%">
-  </div>
+## 📊 GitHub Stats
+
+<div align="center">
   
-  <h2 align=center>👨‍💻About me<h2>
-  <br>
-  <h4 align=center> I aim to become a Backend Developer.</h4>
-  <h4 align=center> Everything goes right</h4>
-  
-  <br>
-    
-  <h2 align=center>🤙 Contact me 🤙</h2>
-
-  <br>
-    
-  <div align="center">
-    <a href="https://www.notion.so/19807776a51b80ca8c4cdd5c791a85b2?source=copy_link"><img src="https://img.shields.io/badge/Notion-F3F3F3?style=flat-square&logo=Notion&logoColor=black"/></a>
-    <a href="mailto:pjs990703@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="mailto:jongseo0703@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-  </div>
-
-  <br>
-
-  <h2 align=center>📚 Tech Stack 📚</h2>
-  <br>
-  <h3 align=center>🪄 Languages 🪄</h3>
-  <div align=center>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp
-  </div>
-  <div align=center>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  </div>
-  <div align=center>
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </div>
-  
-  <br>
-
-  <h3 align=center>📖 Studying 📖</h3>
-  <div align=center>
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp
-  </div>
-  <div align=center>
-    <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">&nbsp
-  </div>
-  <div align=center>
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp
-  </div>
-  <div align=center>
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
-  </div>
-  <div align=center>
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black">&nbsp
-  </div>
-  <div align=center>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp
-  </div>
-  
-  <br>
-
-  <h3 align=center>🛠 Tools 🛠</h3>
-  <div align=center>
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp
-  </div>
-  
-  <div align=center>
-    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-    <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=black" />&nbsp
-  </div>
-  
-  <br>
-    
-  <h2 align=center>📊 Github Stats 📊</h2>
-  <br>
-
-  <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=sh-Dang&show_icons=true&theme=tokyonight" alt="Github stats"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-Dang&layout=compact&theme=tokyonight" alt="Top Langs"/>
-  </div>
-  <div>
-  <br>
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sh-Dang&utm_content=farm">
-      <img
-        src="https://render.gitanimals.org/farms/sh-Dang"
-        width="600"
-        height="300"
-      />
-    </a>
-  </div>
-    
-</div>
-
-<div>
-
-  <!--footer-->
-  <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&height=200&section=footer"/>
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sh-Dang&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-Dang&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
   
 </div>
-<!--
-**sh-Dang/sh-Dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sh-Dang&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🐾 Git Animals
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sh-Dang&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/sh-Dang" width="600" height="300"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+</div>
