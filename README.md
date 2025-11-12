@@ -18,8 +18,8 @@ const sehyung = {
     role: "Backend Developer",
     motto: "Everything goes right",
     location: "Seoul, South Korea 🇰🇷",
-    learning: ["Spring Boot", "Docker", "React"],
-    interests: ["Backend Architecture", "Problem Solving", "Clean Code"]
+    learning: ["Java", "Spring Boot", "Docker", "React"],
+    interests: ["Backend Architecture", "Problem Solving", "Clean Code", "Security"]
 };
 ```
 
