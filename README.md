@@ -16,7 +16,7 @@
 ```typescript
 const sehyung = {
     role: "Backend Developer",
-    motto: "Everything goes right",
+    motto: "Let's make peaceful world",
     location: "Seoul, South Korea 🇰🇷",
     learning: ["Java", "Spring Boot", "Docker", "React"],
     interests: ["Backend Architecture", "Problem Solving", "Clean Code", "Security"]
