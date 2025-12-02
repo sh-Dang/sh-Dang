@@ -19,9 +19,10 @@ const sehyung = {
     location: "Seoul, South Korea 🇰🇷",
     learning: ["Java", "Spring Boot", "Docker", "React"],
     interests: ["Backend Architecture", "Problem Solving", "Clean Code", "Security"],
-    portfolio: "https://sehyung.com",
 };
 ```
+
+<a href="https://sehyung.com" target="_blank">🔗 Portfolio</a>
 
 <br>
 
