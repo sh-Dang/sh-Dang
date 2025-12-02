@@ -18,7 +18,8 @@ const sehyung = {
     motto: "Let's make peaceful world",
     location: "Seoul, South Korea 🇰🇷",
     learning: ["Java", "Spring Boot", "Docker", "React"],
-    interests: ["Backend Architecture", "Problem Solving", "Clean Code", "Security"]
+    interests: ["Backend Architecture", "Problem Solving", "Clean Code", "Security,
+    portfolio: "https://sehyung.com",
 };
 ```
 
