@@ -11,6 +11,7 @@
 <br>
 
 ## 👨‍💻 About Me
+<a href="https://sehyung.com" target="_blank">🔗 Portfolio</a>
 
 ```typescript
 const sehyung = {
@@ -21,8 +22,6 @@ const sehyung = {
     interests: ["Backend Architecture", "Problem Solving", "Clean Code", "Security"],
 };
 ```
-
-<a href="https://sehyung.com" target="_blank">🔗 Portfolio</a>
 
 <br>
 
