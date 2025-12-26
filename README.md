@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20Sehyung's%20Github!&fontSize=35&fontAlignY=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20this%20is%20Sehyung's%20Github&fontSize=35&fontAlignY=35&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -84,16 +84,6 @@ const sehyung = {
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sh-Dang&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
   
-</div>
-
-<br>
-
-## 🐾 Git Animals
-
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sh-Dang&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/sh-Dang" width="600" height="300"/>
-  </a>
 </div>
 
 <br>
