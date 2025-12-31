@@ -69,20 +69,20 @@ const sehyung = {
 
 </div>
 
-## <br>
+<!-- <br>
 
 ## 📊 GitHub Stats
-## <div align="center">
+<div align="center">
   
-##  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sh-Dang&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
-##  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sh-Dang&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sh-Dang&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sh-Dang&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8"/>
   
-## </div>
-## <div align="center">
+</div>
+<div align="center">
   
-##  [![GitHub Streak](https://streak-stats.demolab.com/?user=sh-Dang&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=sh-Dang&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
   
-## </div>
+</div> -->
 <br>
 
 <div align="center">
